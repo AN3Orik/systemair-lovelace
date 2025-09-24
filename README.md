@@ -1,4 +1,4 @@
-# Lovelace cards for Home Assistant Systemair Modbus Integration
+# Lovelace cards for [Home Assistant Systemair Modbus Integration](https://github.com/AN3Orik/systemair)
 
 [![HACS Default](https://img.shields.io/badge/HACS-Default-blue.svg?style=for-the-badge)](https://github.com/hacs/integration)
 [![GitHub Release](https://img.shields.io/github/v/release/AN3Orik/systemair-lovelace?style=for-the-badge)](https://github.com/AN3Orik/systemair-lovelace/releases)
