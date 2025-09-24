@@ -1,0 +1,1 @@
+import './cards/systemair-alarm-history-card.js';
